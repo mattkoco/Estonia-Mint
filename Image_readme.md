@@ -6,10 +6,12 @@
 4.) omron : m_B13U_!
 5.) ryan : !m1N1_WaW4!
 **USERS**:
-1.) steve
-2.) marty
-3.) andreas
-4.) liisbet
+1.) chaperones
+- steve
+- marty
+2.) estonians
+- andreas
+- liisbet
 **Unauthorized Users**:
 1.) A Skebab Toilet
 - swede1 (root)
