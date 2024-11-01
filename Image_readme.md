@@ -5,7 +5,7 @@
 
 2.) casey : redH3@d!!!
 
-3.) connor : dislexyc
+3.) connor : dislexyc_murray
 
 4.) omron : m_B13U_!
 
