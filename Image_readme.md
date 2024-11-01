@@ -17,6 +17,7 @@
 
 - steve
 - marty
+  
 2.) estonians
   
 - andreas
@@ -28,6 +29,7 @@
 
 - swede1 (root)
 - swede2 (UA)
+  
 2.) icecube
   
 - icelander1 (root)
