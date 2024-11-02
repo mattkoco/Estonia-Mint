@@ -34,3 +34,26 @@
   
 - icelander1 (root)
 - icelander2 (UA)
+
+# FORENSICS
+
+Forensics 1.)
+
+- Eesti / CBoNB "Bad Hacker" challenge
+
+Forensics 2.)
+
+- Eesti OSINT
+
+Forensics 3.)
+
+- Find 'root' password
+
+Forensics 4.)
+
+- What package on the system is vulnerable to privelege escalation?
+
+Forensics 5.)
+
+- 
+
